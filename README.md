@@ -1094,3 +1094,4 @@ See [our other projects][community] or
 
 [community]: https://thoughtbot.com/community?utm_source=github
 [hire]: https://thoughtbot.com?utm_source=github
+# paperclip-6.1.0.1
